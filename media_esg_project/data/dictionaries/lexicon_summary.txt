@@ -1,0 +1,4 @@
+Total words: 21916
+Positive: 11180
+Negative: 10731
+Neutral: 5

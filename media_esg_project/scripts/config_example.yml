@@ -1,0 +1,8 @@
+news_csv: "" # set to your news CSV (columns: news_id,title,content,publish_date,media,company)
+company_csv: "" # set to your company list CSV (columns: company_name,ticker,industry)
+esg_csv: data/sample_esg.csv
+output_dir: output
+# dict_path: data/dictionaries/dlut_sentiment_lexicon_processed.csv
+# Use DLUT processed lexicon by default
+dict_path: data/dictionaries/dlut_sentiment_lexicon_processed.csv
+# media_weights: data/dictionaries/your_media_weights.yml  # optional
